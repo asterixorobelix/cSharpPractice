@@ -30,6 +30,11 @@ namespace SixKyu
 
             var stringBuilder = new StringBuilder();
 
+            foreach (char item in text)
+            {
+
+            }
+
             return stringBuilder.ToString();
         }
     }
